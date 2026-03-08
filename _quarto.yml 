@@ -1,0 +1,9 @@
+type: website
+website:
+  title: "Penny Stories"
+  navbar:
+ right:
+
+text: "Home" href: index.html
+text: "About" href: index.html#about
+text: "Submit" href: index.html#submit
