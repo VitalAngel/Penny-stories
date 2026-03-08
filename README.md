@@ -167,3 +167,4 @@ If you want, I can now:
 Provide a brief paste-ready commit sequence for your terminal, or
 Produce a tiny hero image SVG and a short consent-text stub for the submission form to include next. Which do you want next?
 # touch
+# trigger
